@@ -1,0 +1,79 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    width: 1200px;
+}
+
+.input {
+    width: 500px;
+}
+
+.name-input {
+    width: 100%;
+}
+
+.avatar-input {
+    width: 100%;
+}
+
+.comment-input {
+    height: 150px;
+    width: 100%;
+}
+
+.button {
+    margin-top: 10px;
+}
+
+.result {
+    width: 500px;
+}
+
+.info-date {
+    display: flex;
+    justify-content: space-between;
+}
+
+.info {
+    display: flex;
+    justify-content: start;
+
+}
+
+.avatar-result {
+    border: 1px solid black;
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+}
+
+.name-result {
+    border: 1px solid black;
+    width: 200px;
+    height: 100px;
+}
+
+.info-date__date {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.comment-result {
+    border: 1px solid black;
+    width: 500px;
+    height: 40px;
+}
+
+.checkbox {
+    display: flex;
+    justify-content: space-between;
+}
+
+.label {
+    display: flex;
+    align-items: center;
+    margin-right: -120px;
+}
